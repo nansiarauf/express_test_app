@@ -1,0 +1,23 @@
+// const students = [
+//   { name: "tom", age: 11 },
+//   { name: "mot", age: 12 },
+//   { name: "tam", age: 13 },
+//   { name: "tall", age: 14 },
+//   { name: "faa", age: 15 },
+//   { name: "laa", age: 16 },
+//   { name: "awal", age: 17 },
+//   { name: "fuzzy", age: 18 },
+//   { name: "nan", age: 19 },
+//   { name: "tommy", age: 20 },
+//   { name: "tammy", age: 21 },
+//   { name: "mimi", age: 22 },
+//   { name: "batong", age: 25 },
+//   { name: "luri", age: 27 },
+//   { name: "bayor", age: 15 },
+//   { name: "memuna", age: 123 },
+//   { name: "blinks", age: 101 },
+//   { name: "nafaa", age: 103 },
+//   { name: "gbene", age: 102 },
+//   { name: "suimoi", age: 110 },
+// ];
+// module.exports = students;
